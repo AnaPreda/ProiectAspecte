@@ -1,1 +1,1 @@
-web: gunicorn ProiectAspecte.wsgi
+web: gunicorn ProiectAspecte.wsgi:app
